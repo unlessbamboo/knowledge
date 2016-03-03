@@ -1,0 +1,10 @@
+*.o
+tags
+cscope.*.out
+cscope.out
+cscope.files
+*.pyc
+*.pyo
+*.log
+*.swp
+*.swo
